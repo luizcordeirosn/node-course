@@ -1,10 +1,10 @@
 # Node.js do Zero a Maestria com diversos Projetos
 
-Bem-vindo ao repositório dos projetos desenvolvidos no curso "Node.js do Zero à Maestria". Aqui você encontrará todo o código-fonte, exemplos e exercícios práticos abordados em cada uma das seções do curso, desde os conceitos mais básicos até tópicos avançados como o uso de SQL com Sequelize e TypeScript no back-end.
+Repositório com os códigos e projetos desenvolvidos durante o curso "Node.js do Zero a Maestria".
 
-## Sobre o Curso
+## Sobre o Projeto
 
-Este material serve como um guia prático e um registro do progresso ao longo do curso. O objetivo é solidificar o aprendizado na criação de aplicações back-end robustas e eficientes com Node.js, cobrindo todo o ecossistema essencial para um desenvolvedor moderno.
+Este repositório contém a implementação dos códigos e exemplos práticos abordados no curso. O objetivo é solidificar o aprendizado na criação de aplicações back-end robustas e eficientes com Node.js, cobrindo todo o ecossistema essencial para um desenvolvedor moderno.
 
 ## Estrutura do Repositório
 
